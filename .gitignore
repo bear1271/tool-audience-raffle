@@ -1,0 +1,11 @@
+# Local participant data and generated backups must stay off GitHub.
+lottery-backup-*.json
+lottery-history-*.csv
+participants*.csv
+participants*.txt
+exports/
+backups/
+.DS_Store
+Thumbs.db
+# Standalone desktop-guide source; README.zh-CN.md is the tracked Chinese guide.
+/使用说明-中文.md
